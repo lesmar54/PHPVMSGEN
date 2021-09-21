@@ -1,5 +1,5 @@
 # PHPVMSGEN
-PHPVMSGEN is a service to provide data for import to PHPVMS Virtual Airline Software
+PHPVMSGEN is a FREE service to provide data for import to PHPVMS Virtual Airline Software
 
 PHPVMSGEN was created to serve a personal idea in how to get a substantial amount of data into a virtual airline 
 without spending hours and hours inputting each record one by one.                                              
