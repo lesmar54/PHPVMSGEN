@@ -1,0 +1,4 @@
+code,name,price,cost,capacity,notes,active
+E-Base,"Economy Base Fare For Calculation",65.00,3.25,0,"Industry Statistic Base for fare calculation with fare cost of 5%",1
+B-Base,"Business Class Base Fare For Calculation",195.00,9.75,0,"Industry Statistic Base for fare calculation with fare cost of 5%",1
+F-Base,"First Class Base Fare For Calculation",325.00,16.25,0,"Industry Statistic Base for fare calculation with fare cost of 5%",1
